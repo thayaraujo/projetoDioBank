@@ -1,0 +1,5 @@
+C:\DIO.Bank\obj\Debug\net5.0\MeuBanco.csprojAssemblyReference.cache
+C:\DIO.Bank\obj\Debug\net5.0\MeuBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO.Bank\obj\Debug\net5.0\MeuBanco.AssemblyInfoInputs.cache
+C:\DIO.Bank\obj\Debug\net5.0\MeuBanco.AssemblyInfo.cs
+C:\DIO.Bank\obj\Debug\net5.0\MeuBanco.csproj.CoreCompileInputs.cache
